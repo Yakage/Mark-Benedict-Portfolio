@@ -24,8 +24,8 @@ body {
   border: none;
 }
 
-.navbar-nav {
-  margin-left: 1050px;
+#navbarNav{
+  margin-right: 90px;
 }
 
 .nav-item {
@@ -53,6 +53,10 @@ body {
 .about-me-container h1 {
   font-size: 18px; 
   margin-bottom: 10px;
+}
+
+.about-me-container p{
+  margin-right: 20px;
 }
 
 /* Projects */
